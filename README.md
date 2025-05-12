@@ -34,6 +34,26 @@ The pipeline consists of the following stages:
 3. **Gesture Classification**: Identify the sign using a trained deep learning model  
 4. **Temporal Analysis** *(Optional)*: Track gesture sequences over time  
 
+
+
+## 🛠️ Installation
+
+```bash
+# Clone this repository
+git clone https://github.com/Ritika-Sorout/Hand-tracking-and-sign-language.git
+cd Hand-tracking-and-sign-language
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Download pre-trained models (if applicable)
+python scripts/download_models.py
+
+# Test with webcam
+python test/run_webcam.py
+
+# Test with a video file
+python test/run_video.py --input path/to/video.mp4
 ---
 
 Adding New Gestures
