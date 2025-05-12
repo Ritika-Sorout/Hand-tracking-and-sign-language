@@ -1,3 +1,5 @@
+
+
 # Hand-tracking-and-sign-language
 
 This repository contains my deep learning model and test scripts for hand tracking and sign language recognition.
@@ -34,6 +36,7 @@ The pipeline consists of the following stages:
 3. **Gesture Classification**: Identify the sign using a trained deep learning model  
 4. **Temporal Analysis** *(Optional)*: Track gesture sequences over time  
 
+<img width="799" alt="Screenshot 2025-05-12 at 5 59 22 PM" src="https://github.com/user-attachments/assets/2869be7a-a7c6-4749-828d-6d03318ac8f9" />
 
 
 ## 🛠️ Installation
@@ -56,4 +59,4 @@ python test/run_webcam.py
 python test/run_video.py --input path/to/video.mp4
 ---
 
-
+View website here :https://www.canva.com/design/DAGnPBL9aII/kfmN6n7aF_RiyMBif8QJeA/view?utm_content=DAGnPBL9aII&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6236d3ae4c
