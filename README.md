@@ -12,6 +12,7 @@ This repository contains my deep learning model and test scripts for hand tracki
 A deep learning-based system for real-time hand tracking and sign language recognition, built with state-of-the-art neural networks.
 
 ---
+Hand Tracking website link : https://serenity001.my.canva.site/modern-landing-page-design-for-hand-tracking-project
 
 ## 🧠 Overview
 
